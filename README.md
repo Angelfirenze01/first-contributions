@@ -6,9 +6,9 @@
 
 # First Contributions
 
-It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+It's hard. It's always hard the first time you do something, especially when you are collaborating, making mistakes isn't a comfortable thing. With that in mind, we wanted to simplify the way new open-source contributors learn and contribute for the first time.
 
-Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+Reading articles and watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance and simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
 #### *If you're not comfortable with command line, [here are tutorials using GUI tools.]( #tutorials-using-other-tools )*
 
@@ -58,7 +58,7 @@ Reading articles & watching tutorials can help, but what's better than actually 
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
-If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
+If you don't have Git on your machine, install it [here]( https://help.github.com/articles/set-up-git/) or, especially, [here](https://git-scm.com/), where Git is updated online for every operating system that utilizes it, with your choice of operating system being easily distingushable from each other.  The Git command line interface for Windows, MacOS, and Linux are all found here, as well as those for graphical user interfaces (you may have heard them pronounced as an acronym -- GUI or phonetically, as 'gooey'.
 
 ## Fork this repository
 
@@ -76,7 +76,7 @@ Open a terminal and run the following git command:
 ```
 git clone "url you just copied"
 ```
-where "url you just copied" (without the quote marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+where "url (or uniform resource locator) you just copied" (without the quote marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
 <img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
